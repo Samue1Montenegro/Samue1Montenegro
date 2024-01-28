@@ -7,7 +7,7 @@
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)          
+![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)                
 (Por el momento...)
 
 ## Encuéntrame y contactáme en:
