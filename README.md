@@ -1,8 +1,8 @@
-# 🤖 Hola, mi nombre es Samuel 👋
-
-### Dev. Backend Jr.
+![](https://github.com/Samue1Montenegro/Samue1Montenegro/blob/main/Bienvenida.svg)
 📣 Apasionado por la #Tecnología 🖥💻📲, motivo por el cual me ha llevado a entender como se crea un Software.               
- Mis objetivos a mediano plazo son el poder perfeccionarme en el lenguaje Python y adentrarme en el mundo del Machine Learning 🚀📊
+ Mis objetivos a corto plazo son el poder perfeccionarme en el lenguaje Python, Sql, adentrarme en el mundo de la data 
+ y a mediano plazo adentrarme en el mundo del Machine Learning 🚀📊
+ 
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
