@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg fill="none" viewBox="0 0 1500 350" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1500 300" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 <style>.byReeven {
@@ -16,17 +16,19 @@
 
                 }
 
-		.byReevenContainer{
-                display: flex;
-				 flex-direction: column;
-                align-items: center;
-                justify-content: center;
-			border-radius: 10px;
-				width: 100%;
-				 background: #333;
-				padding-top:100px;
-				padding-bottom:100px;
+		.byReevenContainer {
+		    display: flex;
+		    flex-direction: column;
+		    align-items: center;
+		    justify-content: center;
+		    border-radius: 10px;
+		    width: 100%;
+		    background: #333;
+		    padding-top: 100px;
+		    padding-bottom: 100px;
+		    background-size: cover; /* Ajustar fondo al elemento */
 		}
+
 
 
                 h1 {
